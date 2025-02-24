@@ -1,0 +1,1 @@
+A machine learning project that detects and classifies plant diseases using Convolutional Neural Networks (CNN) and Image Processing. Built with TensorFlow, Scikit-learn, and Pandas, the model processes image data to identify diseases accurately.Tech Stack: Python, TensorFlow, Flask, Scikit-learn, Pandas.
